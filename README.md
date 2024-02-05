@@ -4,7 +4,8 @@ The Resume App is an application to view my resume
 Iam using Flutter Language and Getx State Management
 
 App Main Sections:
-1-cupertino_icons
+-
+1-cupertino_icons\n
 2-google_fonts
 3-percent_indicator
 4-url_launcher

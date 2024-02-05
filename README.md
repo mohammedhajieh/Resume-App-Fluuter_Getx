@@ -27,6 +27,11 @@ App Main Sections:
 
 11-flutter_screenutil.
 
+Mockup:
+-------
+![Mockup](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/665459d3-5adc-4ee3-9930-cd253819532a)
+
+
 Dark Mode Picture:
 -----------------
 ![Dark1](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/97dafb13-9fef-484a-80d5-d80841c98bdd)

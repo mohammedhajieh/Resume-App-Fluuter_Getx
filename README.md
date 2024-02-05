@@ -29,9 +29,8 @@ App Main Sections:
 
 Dark Mode Picture:
 -----------------
-![Dark5](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/a2457c5c-d723-4b0a-bdcb-946d1e5e754a)
-![Dark4](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/41bc2267-8686-4b82-9638-0916c201ffd2)
-![Dark3](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/68cbba6d-7f76-438a-a948-8943c9b0f46c)
-![Dark2](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/2facbd8a-2265-4495-b2d7-2d96a5ff728d)
 ![Dark1](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/97dafb13-9fef-484a-80d5-d80841c98bdd)
-
+![Dark2](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/2facbd8a-2265-4495-b2d7-2d96a5ff728d)
+![Dark3](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/68cbba6d-7f76-438a-a948-8943c9b0f46c)
+![Dark4](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/41bc2267-8686-4b82-9638-0916c201ffd2)
+![Dark5](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/a2457c5c-d723-4b0a-bdcb-946d1e5e754a)

@@ -1,4 +1,4 @@
-# Resume-App-Flutter_Getx
+# ResumeApp
 The Resume App is an application to view my resume
 --------------------------------------------------
 Iam using Flutter Language and Getx State Management

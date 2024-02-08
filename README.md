@@ -29,11 +29,12 @@ App Main Sections:
 
 Mockup:
 -------
-![Mockup](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/665459d3-5adc-4ee3-9930-cd253819532a)
 
+![Mockup](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/665459d3-5adc-4ee3-9930-cd253819532a)
 
 Dark Mode Picture:
 -----------------
+
 ![Dark1](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/97dafb13-9fef-484a-80d5-d80841c98bdd)
 ![Dark2](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/2facbd8a-2265-4495-b2d7-2d96a5ff728d)
 ![Dark3](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/68cbba6d-7f76-438a-a948-8943c9b0f46c)
@@ -42,6 +43,7 @@ Dark Mode Picture:
 
 Light Mode Picture:
 -------------------
+
 ![Light1](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/24a70685-e25c-4b4d-96f2-f8f85c6dcef7)
 ![Light2](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/8f5ccac7-dc62-4b5c-9c6f-fe46290b4fe5)
 ![Light3](https://github.com/mohammedhajieh/Resume-App-Fluuter_Getx/assets/106439542/5527e314-2d24-4e22-8d0f-565dc415f807)
